@@ -44,5 +44,3 @@ app/
 }
 ```
 
-## Dépôt GitLab
-Publiez ce projet sur votre dépôt GitLab avec un historique de commits clair.
